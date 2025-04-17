@@ -40,6 +40,7 @@ return {
 				"ruff",
 				"gopls",
 				"golangci_lint_ls",
+				"rust_analyzer",
 			},
 		})
 
