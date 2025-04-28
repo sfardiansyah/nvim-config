@@ -38,8 +38,6 @@ return {
 				"lua_ls",
 				"graphql",
 				"ruff",
-				"gopls",
-				"golangci_lint_ls",
 				"rust_analyzer",
 			},
 		})
